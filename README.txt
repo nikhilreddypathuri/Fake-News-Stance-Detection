@@ -1,7 +1,7 @@
 ***This file gives you information about the Authors and step by step explanation of the execution of the project***
 
 Team name: Evil Geniuses
-GIT-HUB link - https://github.com/vijay-14/Fake-News-Stance-Detection 
+GIT-HUB link - https://github.com/nikhilreddypathuri/Fake-News-Stance-Detection 
 
 Authors:
 
